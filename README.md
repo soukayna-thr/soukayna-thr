@@ -16,4 +16,4 @@ I'm an AI Engineer & Data Scientist, building AI based systems. I bridge researc
 - [EnergyOptimizer_PPO](https://github.com/soukayna-thr/EnergyOptimizer_PPO)  Energy Optimization of a Smart Building Using PPO.
 - [Recetta](https://github.com/soukayna-thr/Recetta) Android app for creating, viewing, editing, filtering, and deleting recipes.
 
-#### Featured Lessons
+
